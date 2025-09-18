@@ -1,1 +1,1 @@
-Some initial text
+New changes = incoming changes
