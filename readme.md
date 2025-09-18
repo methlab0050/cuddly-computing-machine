@@ -1,1 +1,1 @@
-Some initial text
+Old changes = current changes
